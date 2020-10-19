@@ -20,7 +20,7 @@ Navigate to see all setting from your gmail page and follow steps listed below:
 
 # Things to note:
 1. When running the code for first time a google security check web page might open, click on check activity and again click and accept yes it was me. When running code for first time google might give you multiple security alert.
-2. If you this code on python IDLE password entered might me echoed, so better use the command prompt to run the code.
+2. If you run this code on python IDLE password entered might me echoed, so better use the command prompt to run the code.
 
 # Python libraries required :
 ```python 
