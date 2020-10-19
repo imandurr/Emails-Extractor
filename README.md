@@ -27,7 +27,7 @@ Navigate to see all setting from your gmail page and follow steps listed below:
 
 import imaplib, email
 from email.header import decode_header
-import re
+import re, getpass
 ```
 
 # Executing the code :
